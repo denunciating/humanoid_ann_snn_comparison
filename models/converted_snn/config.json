@@ -1,0 +1,1 @@
+{"layer_sizes": [376, 256, 256, 17], "num_steps": 8, "beta": 0.9, "threshold": 1.0}
